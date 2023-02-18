@@ -1,0 +1,49 @@
+#rectangle{
+    height: 40px;
+    background: rgb(164, 164, 164);
+}
+#rectangle1{
+    width: 99%;
+    background: rgb(255, 255, 255);
+    margin-top: 10%;
+
+}
+#rectangle2{
+    background: rgb(164, 164, 164);
+    margin-right: 5%;
+    width: 70%;
+}
+#rectangle3{
+    height: auto;
+    background: rgb(164, 164, 164);
+}
+#Gyro{
+    width: 30%;
+    height: 30%;
+    margin-right: 0.5%;
+    margin-top: 0.5%;
+    float: right;
+    margin: 10px 10px 0 10px;
+    
+}
+
+ul{
+    margin-left: 2.5%;
+}
+
+p{
+    margin-left: 2.5%;
+    margin-right: 3%;
+}
+
+h1{
+    margin-left: 2.5%;
+    margin-top: 2.5%;
+}
+
+body{
+    background-image: url(images/Devil_palm.PNG.webp);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% auto;
+}
